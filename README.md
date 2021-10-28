@@ -46,7 +46,7 @@ SO THAT my account balance is accurate when I am traveling
 ## Usage
 💻 Once on the app home page add in a description and amount for your expense (subract funds) or deposit (add funds), then subsequently click the appropriate button for your transaction. The below graph will automatically generate as you input transactions and the total will be automatically updated.
 
-![image](C:\Users\shaun\OneDrive\Pictures\BudgetTracker snip.PNG)
+![image]<img src=".\Users\shaun\OneDrive\Pictures\BudgetTracker snip.PNG">
 
 ## Features
 This PWA allows for offline and online usage. If offline, the transactions will be saved and then uploaded to the server once an internet connection has been re-established.
